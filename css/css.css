@@ -1,0 +1,15 @@
+.swiper-pagination-bullet{
+	background: lightgray;
+	opacity: 1;
+}
+.swiper-pagination-bullet-active{
+	background: red;
+}
+.swiper-pagination{
+	text-align: center;
+}
+.swiper-container{
+	height:18rem;
+}
+
+
